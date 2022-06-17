@@ -21,6 +21,7 @@ a{
 }
 
 .button {
+    display: inline-block;
     background-color: black;
     color: white;
     padding: 10px 20px;
@@ -298,13 +299,13 @@ a{
 .footer__copyright-text{
     margin-bottom:20px;
 }
-.social-network-vk{
+.social-icon-vk{
    background-image: url("../images/vk.svg");
 }
-.social-network-fb{
+.social-icon-fb{
     background-image: url("../images/facebook.svg");
 }
-.social-network-instagram{
+.social-icon-instagram{
     background-image: url("../images/instagram.svg");
 }
 .footer__copyright{
