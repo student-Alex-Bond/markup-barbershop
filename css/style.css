@@ -250,7 +250,7 @@ a{
 }
 .footer{
     display: flex;
-    height: 194px;
+    padding: 20px 0;
     width: 100%;
     background-color: grey;
     background-image: url("../images/background-image-footer.png");
@@ -281,7 +281,6 @@ a{
 .footer__container{
     height: 100%;
     display: flex;
-    align-items: baseline;
 }
 .footer__address{
     margin-right: 100px;
